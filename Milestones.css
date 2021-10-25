@@ -1,0 +1,291 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1275px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 350px;
+  height: 350px;
+  background-image: url("images/traditional-food-around-the-world-Travlinmad1.jpg");
+  background-position: 50% 50%;
+  margin: 61px auto 0 52px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: -381px 0 0 454px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 82px 0 0 454px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: 63px 0 60px 454px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: 52px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: auto;
+    margin-left: 52px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: auto;
+    margin-left: 52px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1265px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 340px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 0;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 411px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 3rem;
+  margin: 19px auto 0;
+}
+
+.u-section-2 .u-image-1 {
+  width: 266px;
+  height: 266px;
+  margin: 54px auto 0 0;
+}
+
+.u-section-2 .u-image-2 {
+  width: 266px;
+  height: 266px;
+  margin: -266px auto 0;
+}
+
+.u-section-2 .u-image-3 {
+  width: 266px;
+  height: 266px;
+  margin: -266px 27px 19px auto;
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-image-2 {
+    margin-top: 20px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-image-3 {
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: 0;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 375px;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 1px 0 11px;
+}.u-section-4 .u-sheet-1 {
+  min-height: 461px;
+}
+
+.u-section-4 .u-text-1 {
+  margin: 45px 0 0;
+}
+
+.u-section-4 .u-list-1 {
+  width: 656px;
+  grid-template-rows: auto auto auto;
+  margin: -48px auto 30px;
+}
+
+.u-section-4 .u-repeater-1 {
+  grid-template-columns: 100%;
+  grid-gap: 10px 10px;
+  min-height: 256px;
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 17px 30px 10px;
+}
+
+.u-section-4 .u-icon-1 {
+  height: 64px;
+  width: 64px;
+  margin: 1px 20px 0;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 17px 30px 10px;
+}
+
+.u-section-4 .u-icon-2 {
+  height: 64px;
+  width: 64px;
+  margin: 1px 20px 0;
+}
+
+.u-section-4 .u-container-layout-3 {
+  padding: 17px 30px 10px;
+}
+
+.u-section-4 .u-icon-3 {
+  height: 64px;
+  width: 64px;
+  margin: 1px 20px 0;
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-list-1 {
+    width: 540px;
+  }
+
+  .u-section-4 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-list-1 {
+    width: 340px;
+  }
+}.u-section-5 .u-sheet-1 {
+  min-height: 370px;
+}
+
+.u-section-5 .u-text-1 {
+  margin: 49px 0 40px;
+}.u-section-6 .u-sheet-1 {
+  min-height: 390px;
+}
+
+.u-section-6 .u-text-1 {
+  margin: 50px auto 0;
+}
+
+.u-section-6 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 31px;
+}
+
+.u-section-6 .u-layout-cell-1 {
+  min-height: 210px;
+}
+
+.u-section-6 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-6 .u-text-2 {
+  margin: 0;
+}
+
+.u-section-6 .u-layout-cell-2 {
+  min-height: 210px;
+}
+
+.u-section-6 .u-container-layout-2 {
+  padding: 27px 30px;
+}
+
+.u-section-6 .u-text-3 {
+  margin: 0 auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 320px;
+  }
+
+  .u-section-6 .u-layout-wrap-1 {
+    position: relative;
+  }
+
+  .u-section-6 .u-layout-cell-1 {
+    min-height: 173px;
+  }
+
+  .u-section-6 .u-layout-cell-2 {
+    min-height: 173px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 522px;
+  }
+
+  .u-section-6 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-6 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 910px;
+  }
+
+  .u-section-6 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-6 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 628px;
+  }
+}.u-section-7 .u-sheet-1 {
+  min-height: 614px;
+}
+
+.u-section-7 .u-text-1 {
+  margin: 175px 0 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 766px;
+  }
+}
