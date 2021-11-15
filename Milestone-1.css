@@ -1,0 +1,258 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1243px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 260px;
+  height: 260px;
+  background-image: url("images/traditional-food-around-the-world-Travlinmad1.jpg");
+  background-position: 50% 50%;
+  margin: 101px auto 0 82px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: -331px 0 0 454px;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 61px 0 0 454px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 260px;
+  height: 248px;
+  margin: -293px auto 0 67px;
+}
+
+.u-section-1 .u-image-3 {
+  width: 288px;
+  height: 222px;
+  margin: 170px auto 0 75px;
+}
+
+.u-section-1 .u-text-3 {
+  margin: -280px 0 60px 454px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 354px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 354px;
+  }
+
+  .u-section-1 .u-image-3 {
+    height: 223px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: -281px;
+    margin-left: 354px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 134px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 134px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 134px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1671px;
+  }
+
+  .u-section-1 .u-image-1 {
+    margin-left: 80px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-left: 52px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 411px;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 3rem;
+  margin: 19px auto 0;
+}
+
+.u-section-2 .u-image-1 {
+  width: 248px;
+  height: 248px;
+  margin: 27px auto 0 54px;
+}
+
+.u-section-2 .u-image-2 {
+  width: 248px;
+  height: 248px;
+  margin: -248px 122px 0 auto;
+}
+
+.u-section-2 .u-image-3 {
+  width: 248px;
+  height: 248px;
+  margin: -248px auto 60px 424px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 412px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-image-2 {
+    margin-top: 20px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-image-3 {
+    margin-top: 20px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-image-2 {
+    margin-right: 92px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 351px;
+}
+
+.u-section-3 .u-text-1 {
+  margin: 1px 0 34px;
+}.u-section-4 .u-sheet-1 {
+  min-height: 370px;
+}
+
+.u-section-4 .u-text-1 {
+  margin: 49px 0 40px;
+}.u-section-5 .u-sheet-1 {
+  min-height: 390px;
+}
+
+.u-section-5 .u-text-1 {
+  margin: 50px auto 0;
+}
+
+.u-section-5 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 31px;
+}
+
+.u-section-5 .u-layout-cell-1 {
+  min-height: 210px;
+}
+
+.u-section-5 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-5 .u-text-2 {
+  margin: 10px 0 0;
+}
+
+.u-section-5 .u-layout-cell-2 {
+  min-height: 210px;
+}
+
+.u-section-5 .u-container-layout-2 {
+  padding: 27px 30px;
+}
+
+.u-section-5 .u-text-3 {
+  margin: 0 auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 320px;
+  }
+
+  .u-section-5 .u-layout-wrap-1 {
+    position: relative;
+  }
+
+  .u-section-5 .u-layout-cell-1 {
+    min-height: 173px;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 173px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 522px;
+  }
+
+  .u-section-5 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-5 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 910px;
+  }
+
+  .u-section-5 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-5 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 628px;
+  }
+}.u-section-6 .u-sheet-1 {
+  min-height: 538px;
+}
+
+.u-section-6 .u-text-1 {
+  margin: 27px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 766px;
+  }
+}
