@@ -48,7 +48,8 @@
     width: 340px;
     height: 243px;
   }
-}.u-section-2 {
+}
+.u-section-2 {
   background-image: none;
 }
 
@@ -401,7 +402,8 @@
   .u-section-2 .u-layout-cell-8 {
     min-height: 382px;
   }
-}.u-section-3 .u-sheet-1 {
+}
+.u-section-3 .u-sheet-1 {
   min-height: 3126px;
 }
 
@@ -701,7 +703,8 @@
   .u-section-3 .u-text-8 {
     margin-left: 126px;
   }
-}.u-section-4 .u-sheet-1 {
+}
+.u-section-4 .u-sheet-1 {
   min-height: 5258px;
 }
 
@@ -1334,7 +1337,8 @@
     margin-right: initial;
     margin-left: initial;
   }
-}.u-section-5 .u-sheet-1 {
+}
+.u-section-5 .u-sheet-1 {
   min-height: 2035px;
 }
 
@@ -1579,7 +1583,8 @@
   .u-section-5 .u-text-3 {
     width: 340px;
   }
-}.u-section-6 .u-sheet-1 {
+}
+.u-section-6 .u-sheet-1 {
   min-height: 2805px;
 }
 
@@ -1597,14 +1602,14 @@
 .u-section-6 .u-image-1 {
   width: 1038px;
   height: 721px;
-  box-shadow: 0 2px 8px 0 rgba(128,128,128,1);
+  box-shadow: 0 2px 8px 0 rgba(128, 128, 128, 1);
   margin: 24px auto 0;
 }
 
 .u-section-6 .u-image-2 {
   width: 1038px;
   height: 721px;
-  box-shadow: 0 2px 8px 0 rgba(128,128,128,1);
+  box-shadow: 0 2px 8px 0 rgba(128, 128, 128, 1);
   margin: 51px auto 0;
 }
 
@@ -1916,7 +1921,8 @@
   .u-section-6 .u-layout-cell-3 {
     min-height: 367px;
   }
-}.u-section-7 .u-sheet-1 {
+}
+.u-section-7 .u-sheet-1 {
   min-height: 542px;
 }
 
@@ -1931,7 +1937,9 @@
 }
 
 .u-section-7 .u-repeater-1 {
-  grid-template-columns: calc(33.3333% - 36px) calc(33.3333% - 36px) calc(33.3333% - 36px);
+  grid-template-columns: calc(33.3333% - 36px) calc(33.3333% - 36px) calc(
+      33.3333% - 36px
+    );
   grid-gap: 54px 54px;
   min-height: 369px;
 }
@@ -2008,7 +2016,7 @@
 .u-section-7 .u-image-3 {
   width: 220px;
   height: 220px;
-  background-image: url("images/sebii.jpg");
+  background-image: url("images/sebii.jpeg");
   background-position: 50% 50%;
   margin: 4px auto 0;
 }
@@ -2132,7 +2140,9 @@
 
 @media (max-width: 1199px) {
   .u-section-7 .u-repeater-1 {
-    grid-template-columns: calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px);
+    grid-template-columns: calc(33.3333% - 6.66667px) calc(33.3333% - 6.66667px) calc(
+        33.3333% - 6.66667px
+      );
   }
 
   .u-section-7 .u-text-2 {
