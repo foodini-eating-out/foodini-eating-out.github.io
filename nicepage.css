@@ -35490,11 +35490,11 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-sheet-1 {
-  min-height: 120px;
+  min-height: 74px;
 }
 
 .u-header .u-menu-1 {
-  margin: 54px 0 30px auto;
+  margin: 19px 0 19px auto;
 }
 
 .u-header .u-nav-1 {
@@ -35528,7 +35528,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-sheet-1 {
-  min-height: 120px;
+  min-height: 14px;
 }
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {

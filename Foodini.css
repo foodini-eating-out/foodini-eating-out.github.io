@@ -1,32 +1,56 @@
 .u-section-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.55), rgba(0,0,0,0.55)), url("images/Untitled-21.png");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
   min-height: 100vh;
 }
 
+.u-section-1 .u-list-1 {
+  width: 581px;
+  margin: 35px auto 0 0;
+}
+
+.u-section-1 .u-repeater-1 {
+  min-height: 59px;
+  grid-template-columns: calc(33.3333% - 15.3333px) calc(33.3333% - 15.3333px) calc(33.3333% - 15.3333px);
+  grid-gap: 23px 23px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 10px;
+}
+
 .u-section-1 .u-btn-1 {
   border-style: none none solid;
   font-size: 1.5rem;
   font-weight: 700;
-  margin: 43px auto 0 38px;
+  margin: 0 auto;
   padding: 0;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 10px;
 }
 
 .u-section-1 .u-btn-2 {
   border-style: none none solid;
   font-size: 1.5rem;
   font-weight: 700;
-  margin: -39px auto 0 154px;
+  margin: 0 auto;
   padding: 0;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 10px;
 }
 
 .u-section-1 .u-btn-3 {
   border-style: none none solid;
   font-size: 1.5rem;
   font-weight: 700;
-  margin: -39px auto 0 354px;
+  margin: 0 auto;
   padding: 0;
 }
 
@@ -35,7 +59,7 @@
   line-height: 1.1;
   letter-spacing: 2px;
   font-weight: 700;
-  margin: 174px auto 0 29px;
+  margin: 162px auto 0 29px;
 }
 
 .u-section-1 .u-image-1 {
@@ -58,22 +82,6 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 .u-btn-1 {
-    margin-left: 0;
-  }
-
-  .u-section-1 .u-btn-2 {
-    margin-left: 0;
-  }
-
-  .u-section-1 .u-btn-3 {
-    margin-left: 154px;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-top: 239px;
-  }
-
   .u-section-1 .u-image-1 {
     margin-top: -357px;
   }
@@ -88,12 +96,21 @@
 }
 
 @media (max-width: 991px) {
-  .u-section-1 .u-btn-3 {
-    margin-left: 0;
+  .u-section-1 .u-repeater-1 {
+    min-height: 177px;
+    grid-template-columns: calc(50% - 11.5px) calc(50% - 11.5px);
   }
 }
 
 @media (max-width: 767px) {
+  .u-section-1 .u-list-1 {
+    width: 540px;
+  }
+
+  .u-section-1 .u-repeater-1 {
+    grid-template-columns: 100%;
+  }
+
   .u-section-1 .u-text-1 {
     font-size: 6rem;
   }
@@ -108,6 +125,10 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-1 .u-list-1 {
+    width: 340px;
+  }
+
   .u-section-1 .u-text-1 {
     font-size: 3.75rem;
   }
